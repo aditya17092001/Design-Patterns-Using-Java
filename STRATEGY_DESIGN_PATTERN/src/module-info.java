@@ -1,0 +1,2 @@
+module STRATEGY_DESIGN_PATTERN {
+}
